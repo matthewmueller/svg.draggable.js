@@ -1,0 +1,5 @@
+{
+  "name" : "svg-draggable",
+  "description" : "create draggable elements for svg.js",
+  "scripts" : ["index.js", "svg.draggable.js"]
+}
